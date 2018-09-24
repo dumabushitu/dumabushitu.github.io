@@ -4,7 +4,7 @@ title:      Hello,world!
 subtitle:   我的第一篇博客
 date:       2018-09-04
 author:     犊马不识途
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-hw.jpg
 catalog: true
 tags:
     - Blog
