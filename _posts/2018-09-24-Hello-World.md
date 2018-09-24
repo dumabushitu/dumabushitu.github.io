@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      **Hello,world!**
+title:      Hello,world!
 subtitle:   我的第一篇博客
 date:       2018-09-04
 author:     犊马不识途
